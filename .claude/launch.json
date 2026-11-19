@@ -1,0 +1,89 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "site",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "C:/Users/chets/AppData/Local/Temp/claude/c5df3fecbbffd330/f74abb6d-49cc-4eea-a0de-44cff18e022a/scratchpad/serve.js",
+        ".",
+        "5173"
+      ],
+      "port": 5173
+    },
+    {
+      "name": "softz-prototype",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "D:/SOFT Z DIGITAL/01_งานลูกค้า/SOFT Z/SOFTZ-Web-Prototype/.claude/serve.js",
+        "D:/SOFT Z DIGITAL/01_งานลูกค้า/SOFT Z/SOFTZ-Web-Prototype",
+        "5180"
+      ],
+      "port": 5180
+    },
+    {
+      "name": "softz-web",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "--prefix",
+        "D:/SOFT Z DIGITAL/04_เว็บไซต์ SOFT Z/Softz-Web-master",
+        "run",
+        "dev",
+        "--",
+        "--port",
+        "4321"
+      ],
+      "port": 4321
+    },
+    {
+      "name": "shogun-demo",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "D:/SOFT Z DIGITAL/01_งานลูกค้า/SOFT Z/SOFTZ-Web-Prototype/.claude/serve.js",
+        "D:/SOFT Z DIGITAL/04_เว็บไซต์ SOFT Z/เว็บตัวอย่าง/Shogun Coffee",
+        "5190"
+      ],
+      "port": 5190
+    },
+    {
+      "name": "jern-demo",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "D:/SOFT Z DIGITAL/01_งานลูกค้า/SOFT Z/SOFTZ-Web-Prototype/.claude/serve.js",
+        "D:/SOFT Z DIGITAL/05_ไฟล์ภาพสำหรับทำมอคอัพ/JERN AUTO CAR/เว็บตัวอย่าง",
+        "5200"
+      ],
+      "port": 5200
+    },
+    {
+      "name": "noir-cars",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "D:/SOFT Z DIGITAL/01_งานลูกค้า/SOFT Z/SOFTZ-Web-Prototype/.claude/serve.js",
+        "D:/SOFT Z DIGITAL/04_เว็บไซต์ SOFT Z/เว็บตัวอย่าง/Noir Cars",
+        "5210"
+      ],
+      "port": 5210
+    },
+    {
+      "name": "789-demo",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "D:/SOFT Z DIGITAL/01_งานลูกค้า/SOFT Z/SOFTZ-Web-Prototype/.claude/serve.js",
+        "D:/SOFT Z DIGITAL/05_ไฟล์ภาพสำหรับทำมอคอัพ/789 Organize/เว็บตัวอย่าง",
+        "5220"
+      ],
+      "port": 5220
+    },
+    {
+      "name": "stagecraft",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "D:/SOFT Z DIGITAL/01_งานลูกค้า/SOFT Z/SOFTZ-Web-Prototype/.claude/serve.js",
+        "D:/SOFT Z DIGITAL/04_เว็บไซต์ SOFT Z/เว็บตัวอย่าง/Stagecraft",
+        "5230"
+      ],
+      "port": 5230
+    }
+  ]
+}
